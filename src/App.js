@@ -4,8 +4,8 @@ import MenuPage from './pages/MenuPage';
 function App() {
   return (
     <Routes>
-      <Route exact path='/' element={<MenuPage />} />
-      <Route path='*' element={<Navigate to="/" />} />
+      <Route exact path='/reareasoulfood/menu' element={<MenuPage />} />
+      <Route path='*' element={<Navigate to="/reareasoulfood/menu" />} />
     </Routes>
   );
 }
