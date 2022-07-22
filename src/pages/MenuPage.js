@@ -23,7 +23,7 @@ function MenuPage({ maxHeight }) {
     return (
         <MarketContainer maxHeight={maxHeight}>
             <div className='banner'>
-                <img src='/banner.jpeg' alt='' />
+                <img src='/assets/images/banner.jpeg' alt='' />
             </div>
             <div className="scroll">
                 <div className="number">
