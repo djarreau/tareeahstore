@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tareeahstore/static/css/main.e6c13ad2.css",
-    "main.js": "/tareeahstore/static/js/main.cd9afffa.js",
+    "main.js": "/tareeahstore/static/js/main.d6b0f66e.js",
     "index.html": "/tareeahstore/index.html",
     "main.e6c13ad2.css.map": "/tareeahstore/static/css/main.e6c13ad2.css.map",
-    "main.cd9afffa.js.map": "/tareeahstore/static/js/main.cd9afffa.js.map"
+    "main.d6b0f66e.js.map": "/tareeahstore/static/js/main.d6b0f66e.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.cd9afffa.js"
+    "static/js/main.d6b0f66e.js"
   ]
 }
