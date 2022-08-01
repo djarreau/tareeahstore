@@ -27,7 +27,7 @@ function MenuPage({ maxHeight }) {
             </div>
             <div className="scroll">
                 <div className="number">
-                    <div className="wrapper"><p>Call for Catering Info</p></div>
+                    <div className="wrapper"><p>Book me for your next catering event</p></div>
                     <div className="wrapper"><p>610-333-2146</p></div>
                 </div>
                 <div className="hours">
@@ -170,6 +170,10 @@ padding: 0 12vw;
 
 p {
   margin: 0;
+  
+@media(pointer: coarse){
+ font-size: .8em;
+}
 }
 
 @media(pointer: coarse){
